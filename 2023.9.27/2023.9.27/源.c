@@ -9,4 +9,4 @@ int main()
 	return 0;
 }
 
-//两个整数的和
+//an integer plus integer
